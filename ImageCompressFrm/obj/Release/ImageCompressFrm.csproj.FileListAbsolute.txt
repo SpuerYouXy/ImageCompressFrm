@@ -1,0 +1,9 @@
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\bin\Release\ImageCompressFrm.exe.config
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\bin\Release\ImageCompressFrm.exe
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\bin\Release\ImageCompressFrm.pdb
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\obj\Release\ImageCompressFrm.MainFrm.resources
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\obj\Release\ImageCompressFrm.Properties.Resources.resources
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\obj\Release\ImageCompressFrm.csproj.GenerateResource.Cache
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\obj\Release\ImageCompressFrm.csproj.CoreCompileInputs.cache
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\obj\Release\ImageCompressFrm.exe
+c:\users\y\source\repos\ImageCompressFrm\ImageCompressFrm\obj\Release\ImageCompressFrm.pdb
